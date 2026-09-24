@@ -140,7 +140,7 @@ Chord Atlas is intended for current versions of Chrome, Edge, Firefox, and Safar
 
 - Guitar chord data: [tombatossals/chords-db](https://github.com/tombatossals/chords-db)
 - Chord diagram rendering: [craigdanj/chord-shape-js](https://github.com/craigdanj/chord-shape-js)
-- Chords DB integration: Chords DB Adapter
+- Chords DB integration: [Chords DB Adapter] (https://github.com/craigdanj/chordsdb-chordshape-adapter)
 
 ## License
 
